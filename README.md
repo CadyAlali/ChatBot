@@ -2,6 +2,13 @@
 
 This is a Python script that creates a conversational assistant using the AssemblyAI, OpenAI, and ElevenLabs APIs. The assistant can transcribe the user's speech, generate a response using OpenAI's language model, and then convert the response to audio and play it back using ElevenLabs.
 
+
+#### We worked as a group :
+ Dana Alghofaily
+ Kady alali
+ Kady Aldughaim 
+
+ 
 ## Features
 
 - Real-time speech transcription using AssemblyAI
