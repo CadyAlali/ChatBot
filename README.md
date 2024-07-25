@@ -4,9 +4,9 @@ This is a Python script that creates a conversational assistant using the Assemb
 
 
 #### We worked as a group :
- Dana Alghofaily
- Kady alali
- Kady Aldughaim 
+ - Dana Alghofaily
+ - Kady alali
+ - Kady Aldughaim 
 
  
 ## Features
